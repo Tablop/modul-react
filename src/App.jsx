@@ -1,5 +1,5 @@
-import Hooks from "./latihan/Hooks"
+import Formhandling from "./latihan/Formhandling";
 
 export default function App() {
-  return <Hooks />;
+  return <Formhandling />;
 }
